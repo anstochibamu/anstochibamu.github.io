@@ -731,7 +731,7 @@ select {
 	-webkit-appearance: none;
 	-webkit-border-radius: 0px;
 	background-color: #585d65;
-	background-image: url(http://anstochibamu.github.io/wp-content/themes/myour/assets/images/arrow.svg);
+	background-image: url(assets/images/arrow.svg);
 	background-position: calc(100% - 15px) 50%;
 	background-size: 11px;
 	background-repeat: no-repeat;
@@ -5344,7 +5344,7 @@ span.post-page-numbers {
 	padding: 0;
 	width: 14px;
 	height: 31px;
-	background: url(http://anstochibamu.github.io/wp-content/themes/myour/assets/images/search.svg) no-repeat center center !important;
+	background: url(assets/images/search.svg) no-repeat center center !important;
 	background-size: contain !important;
 	font-size: 0;
 	opacity: .7;
