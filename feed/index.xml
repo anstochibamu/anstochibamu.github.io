@@ -8,16 +8,24 @@
 	>
 
 <channel>
-	<title>ANSTO TAFARA CHIBAMU</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description></description>
-	<lastBuildDate>2019-11-02 20:21:50</lastBuildDate>
+	<title>Quant ATC</title>
+	<atom:link href="http://anstochibamu.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>http://anstochibamu.github.io</link>
+	<description>Ansto Tafara Chibamu</description>
+	<lastBuildDate>Sun, 06 Jun 2021 19:41:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>http://anstochibamu.github.io/wp-content/uploads/2021/06/cropped-ATC-Logo-Blue-Transparent-32x32.png</url>
+	<title>Quant ATC</title>
+	<link>http://anstochibamu.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>

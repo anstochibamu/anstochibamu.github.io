@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments for ANSTO TAFARA CHIBAMU	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description></description>
-	<lastBuildDate>2019-11-02 20:21:50</lastBuildDate>
+	Comments for Quant ATC	</title>
+	<atom:link href="http://anstochibamu.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://anstochibamu.github.io</link>
+	<description>Ansto Tafara Chibamu</description>
+	<lastBuildDate>Sun, 06 Jun 2021 19:41:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 </channel>
 </rss>
